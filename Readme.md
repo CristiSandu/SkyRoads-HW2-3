@@ -27,3 +27,4 @@ Game Control:
 | P     | apear only punctiform lights        |
 
 [GamePlay Video](https://youtu.be/hNX4Rb7XY2c)
+## [Main Repo](https://github.com/CristiSandu/EGC)

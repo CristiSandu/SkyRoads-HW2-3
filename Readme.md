@@ -10,7 +10,7 @@ The project consists of 2 subprojects, one in which the **[gameplay part](https:
 
 ## GamePlay
 
-As a game mode, our goal is to cover the greatest distance without falling off the platforms or hitting obstacles.
+As a game mode, our goal is to cover the greatest distance without falling off the platforms or hitting obstacles. As a player's point of view we have 2 views, one from the back and one from the side.
 
 | Key   | Action                              |
 | :---- | :---------------------------------- |

@@ -6,6 +6,7 @@ This is a simple version of SkyRoads made in C++ and OpenGL that presents elemen
 ![](https://github.com/CristiSandu/SkyRoads-HW1-2/blob/main/IMG/4.jpg)
 
 The project consists of 2 subprojects, one in which the **[gameplay part](https://github.com/CristiSandu/SkyRoads-HW1-2/tree/main/Source/Laboratoare/Tema2)** is implemented and another in which a **[more realistic note](https://github.com/CristiSandu/SkyRoads-HW1-2/tree/main/Source/Laboratoare/Tema3)** is added.
+![](https://github.com/CristiSandu/SkyRoads-HW1-2/blob/main/IMG/1.jpg)![](https://github.com/CristiSandu/SkyRoads-HW1-2/blob/main/IMG/3.jpg)
 
 ## GamePlay
 

@@ -1,5 +1,10 @@
 # SkyRoade 3D Game
 
+A 3D game made with C++ and OpenGL
+
+![](https://github.com/CristiSandu/SkyRoads-HW1-2/blob/main/IMG/3.jpg)
+![](https://github.com/CristiSandu/SkyRoads-HW1-2/blob/main/IMG/4.jpg)
+
 ## GamePlay
 
 As a gameplay, our goal is to make the longest distance widout fall of the platforms or colide with obstacles.

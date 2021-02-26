@@ -7,16 +7,16 @@ A 3D game made with C++ and OpenGL
 
 ## GamePlay
 
-As a gameplay, our goal is to make the longest distance widout fall of the platforms or colide with obstacles.
+As a game mode, our goal is to cover the greatest distance without falling off the platforms or hitting obstacles.
 
 | Key   | Action                              |
 | :---- | :---------------------------------- |
 | W     | increase speed                      |
-| S     | decrase speed                       |
+| S     | decrease speed                       |
 | A     | go to left platform row             |
 | D     | go to right platform row            |
-| R     | increas cut off angle to spot light |
-| T     | decrase cut off angle to spot light |
+| R     | increase cut off angle to spot light |
+| T     | decrease cut off angle to spot light |
 | Space | jump                                |
 | O     | apear only spot lights              |
 | P     | apear only punctiform lights        |
